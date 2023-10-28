@@ -4,5 +4,6 @@
 
 
 - <b>PowerShell</b>
-- [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  
+  - [Active Directory Basics](https://github.com/SeanHurleyTech/Active-Directory-Basics)
+
+ <h2>👨‍💻 Certifications:</h2>
